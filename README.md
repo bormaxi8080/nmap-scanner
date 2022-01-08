@@ -19,7 +19,7 @@ This is a domain list scanner to find exploited vulnerabilities used NMap utilit
 2. Run install script:
 > bash install.sh
 
-Make sure *scripts* and *output* directories are created.
+3. Make sure *scripts* and *output* directories are created.
 
 ## Run scanner:
 
@@ -27,7 +27,7 @@ Make sure *scripts* and *output* directories are created.
 
 ## Results:
 
-> See *output directory*
+> See *output* directory
 
 ## Search exploitable vulnerabilities:
 
