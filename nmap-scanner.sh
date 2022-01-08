@@ -13,7 +13,7 @@ echo "Scanning target domains..."
 
 while IFS= read -r domain
 do
-  echo "Scanning $domain"
+  echo "Scanning $domain:"
 
   # nmap intense scan with UDP
   echo "nmap -T4 -A -v "$domain""
