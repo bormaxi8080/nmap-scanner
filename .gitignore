@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+
+scripts*
+output*
+archive*
+
+_targets.txt
+*.txt_
