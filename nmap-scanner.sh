@@ -15,7 +15,7 @@ while IFS= read -r domain
 do
   echo "Scanning $domain:"
 
-  # nmap intense scan with UDP
+  # nmap intense scan
   echo "nmap -T4 -A -v "$domain""
   nmap -T4 -A -v "$domain" > "./output/$domain".txt
 
