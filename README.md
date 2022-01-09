@@ -21,7 +21,7 @@ This is a domain list scanner to find exploited vulnerabilities used NMap utilit
 
 3. Make sure *scripts* and *output* directories are created.
 
-## Run scanner:
+## Run scan:
 
 > bash nmap-scanner.sh
 
