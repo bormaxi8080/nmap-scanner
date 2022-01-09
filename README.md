@@ -4,7 +4,7 @@
 This is a domain list scanner to find exploited vulnerabilities used NMap utility (https://nmap.org) and specific security vulnerabilities scan scripts.
 
 ## Warning of responsibility
-- This can be useful for pentesting the service only
+- This can be useful for pentesting the services only
 - This tool is created solely for informational purposes only, and does not carry calls for any actions
 - We do not bring responsibility, but you are warned!
 
