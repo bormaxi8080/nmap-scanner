@@ -1,5 +1,5 @@
 # nmap-scanner
-## Nmap domain list scanner to find exploitable vulnerabilities
+## Nmap packet domain list scanner to find exploitable vulnerabilities
 
 This is a domain list scanner to find exploited vulnerabilities used NMap utility (https://nmap.org) and specific security vulnerabilities scan scripts.
 
