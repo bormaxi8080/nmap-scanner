@@ -37,4 +37,5 @@ done < targets.txt
 echo "Found exploitable vulnerabilities:"
 grep "*EXPLOIT*" ./output/*.txt
 
+echo "Done."
 echo "Scan completed. $count target domains scanned. See scan results in output directory."
