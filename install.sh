@@ -6,7 +6,7 @@ mkdir output
 
 echo "Installing nmap-scanners..."
 cd scripts
-git clone "https://github.com/vulnersCom/nmap-vulners.git"
-git clone "https://github.com/scipag/vulscan.git"
+git clone "https://github.com/bormaxi8080/nmap-vulners.git"
+git clone "https://github.com/bormaxi8080/vulscan.git"
 cd ..
 echo "Done"
